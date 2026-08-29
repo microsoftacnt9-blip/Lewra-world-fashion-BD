@@ -1,0 +1,6 @@
+{
+  "name": "Lewra World",
+  "description": "E-Commerce store for Lewra World featuring product catalog, cart, live order tracking, customer delivery confirmation with verified badges, admin management, support scheduling, and interactive discount spin wheel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
